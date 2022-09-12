@@ -32,6 +32,22 @@
     /* Homepage */
 
 
+    #hero #desc {
+        font-size: 14px;
+    }
+
+    #hero small {
+        font-size: 14px;
+    }
+
+    #hero .vendor img {
+        width: 150px;
+        height: 150px;
+    }
+
+    #hero .social-links {
+        display: block;
+    }
 
 }
 
@@ -44,6 +60,18 @@
 
     /* CSS */
 
+    #hero #desc {
+        font-size: 14px;
+    }
+
+    #hero small {
+        font-size: 14px;
+    }
+
+    #hero .vendor img {
+        width: 150px;
+        height: 150px;
+    }
 
 }
 
@@ -55,7 +83,18 @@
 @media screen and (min-width: 481px) and (max-width: 767px) {
 
     /* CSS */
+    #hero #desc {
+        font-size: 14px;
+    }
 
+    #hero small {
+        font-size: 14px;
+    }
+
+    #hero .vendor img {
+        width: 120px;
+        height: 120px;
+    }
 
 }
 
@@ -67,6 +106,10 @@
 @media screen and (min-width: 320px) and (max-width: 480px) {
 
     /* Homepage */
+
+    #hero {
+        height: auto;
+    }
 
 
     #hero #desc {
