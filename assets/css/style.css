@@ -398,3 +398,14 @@ section {
 .section-title p {
   margin-bottom: 0;
 }
+
+.btn-primary {
+  background-color: #272829;
+  border: 1px solid #272829;
+
+}
+
+.btn-primary:hover {
+  background-color: #393c3f;
+  border: 1px solid #393c3f;
+}
