@@ -108,7 +108,11 @@
     /* Homepage */
 
     #hero {
-        height: auto;
+        height: inherit;
+    }
+
+    #hero:before {
+        height: inherit;
     }
 
 
